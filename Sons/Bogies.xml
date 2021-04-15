@@ -207,7 +207,7 @@
 														<Attribute name="Filename">
 															<cDeltaString>
 																<Element>
-																	<Value>Sons\Rumble Medium Concrete.wav</Value>
+																	<Value>Sons\Rumble Loose 20KMH.wav</Value>
 																</Element>
 															</cDeltaString>
 														</Attribute>
@@ -408,7 +408,7 @@
 																	<Attribute name="Likelihood">
 																		<sFloat32>
 																			<Element>
-																				<Value>0.25</Value>
+																				<Value>0.5</Value>
 																			</Element>
 																		</sFloat32>
 																	</Attribute>
@@ -419,7 +419,7 @@
 																					<Attribute name="Filename">
 																						<cDeltaString>
 																							<Element>
-																								<Value>Sons\tim1.wav</Value>
+																								<Value>Sons\20 Hit 01.wav</Value>
 																							</Element>
 																						</cDeltaString>
 																					</Attribute>
@@ -436,7 +436,7 @@
 																	<Attribute name="Likelihood">
 																		<sFloat32>
 																			<Element>
-																				<Value>0.25</Value>
+																				<Value>0.5</Value>
 																			</Element>
 																		</sFloat32>
 																	</Attribute>
@@ -447,7 +447,7 @@
 																					<Attribute name="Filename">
 																						<cDeltaString>
 																							<Element>
-																								<Value>Sons\tim2.wav</Value>
+																								<Value>Sons\20 Hit 02.wav</Value>
 																							</Element>
 																						</cDeltaString>
 																					</Attribute>
@@ -464,7 +464,7 @@
 																	<Attribute name="Likelihood">
 																		<sFloat32>
 																			<Element>
-																				<Value>0.25</Value>
+																				<Value>0.5</Value>
 																			</Element>
 																		</sFloat32>
 																	</Attribute>
@@ -475,7 +475,7 @@
 																					<Attribute name="Filename">
 																						<cDeltaString>
 																							<Element>
-																								<Value>Sons\tim3.wav</Value>
+																								<Value>Sons\20 Hit 03.wav</Value>
 																							</Element>
 																						</cDeltaString>
 																					</Attribute>
@@ -492,7 +492,7 @@
 																	<Attribute name="Likelihood">
 																		<sFloat32>
 																			<Element>
-																				<Value>0.25</Value>
+																				<Value>0.5</Value>
 																			</Element>
 																		</sFloat32>
 																	</Attribute>
@@ -503,7 +503,511 @@
 																					<Attribute name="Filename">
 																						<cDeltaString>
 																							<Element>
-																								<Value>Sons\tim4.wav</Value>
+																								<Value>Sons\20 Hit 04.wav</Value>
+																							</Element>
+																						</cDeltaString>
+																					</Attribute>
+																				</Value>
+																			</Element>
+																		</kLoud-cSampleID>
+																	</Attribute>
+																</Value>
+															</Element>
+														</kLoud-cSampleWithLikelihood>
+														<kLoud-cSampleWithLikelihood>
+															<Element>
+																<Value>
+																	<Attribute name="Likelihood">
+																		<sFloat32>
+																			<Element>
+																				<Value>0.5</Value>
+																			</Element>
+																		</sFloat32>
+																	</Attribute>
+																	<Attribute name="Sample">
+																		<kLoud-cSampleID>
+																			<Element>
+																				<Value>
+																					<Attribute name="Filename">
+																						<cDeltaString>
+																							<Element>
+																								<Value>Sons\20 Hit 05.wav</Value>
+																							</Element>
+																						</cDeltaString>
+																					</Attribute>
+																				</Value>
+																			</Element>
+																		</kLoud-cSampleID>
+																	</Attribute>
+																</Value>
+															</Element>
+														</kLoud-cSampleWithLikelihood>
+														<kLoud-cSampleWithLikelihood>
+															<Element>
+																<Value>
+																	<Attribute name="Likelihood">
+																		<sFloat32>
+																			<Element>
+																				<Value>0.5</Value>
+																			</Element>
+																		</sFloat32>
+																	</Attribute>
+																	<Attribute name="Sample">
+																		<kLoud-cSampleID>
+																			<Element>
+																				<Value>
+																					<Attribute name="Filename">
+																						<cDeltaString>
+																							<Element>
+																								<Value>Sons\20 Hit 06.wav</Value>
+																							</Element>
+																						</cDeltaString>
+																					</Attribute>
+																				</Value>
+																			</Element>
+																		</kLoud-cSampleID>
+																	</Attribute>
+																</Value>
+															</Element>
+														</kLoud-cSampleWithLikelihood>
+														<kLoud-cSampleWithLikelihood>
+															<Element>
+																<Value>
+																	<Attribute name="Likelihood">
+																		<sFloat32>
+																			<Element>
+																				<Value>0.5</Value>
+																			</Element>
+																		</sFloat32>
+																	</Attribute>
+																	<Attribute name="Sample">
+																		<kLoud-cSampleID>
+																			<Element>
+																				<Value>
+																					<Attribute name="Filename">
+																						<cDeltaString>
+																							<Element>
+																								<Value>Sons\20 Hit 07.wav</Value>
+																							</Element>
+																						</cDeltaString>
+																					</Attribute>
+																				</Value>
+																			</Element>
+																		</kLoud-cSampleID>
+																	</Attribute>
+																</Value>
+															</Element>
+														</kLoud-cSampleWithLikelihood>
+														<kLoud-cSampleWithLikelihood>
+															<Element>
+																<Value>
+																	<Attribute name="Likelihood">
+																		<sFloat32>
+																			<Element>
+																				<Value>0.5</Value>
+																			</Element>
+																		</sFloat32>
+																	</Attribute>
+																	<Attribute name="Sample">
+																		<kLoud-cSampleID>
+																			<Element>
+																				<Value>
+																					<Attribute name="Filename">
+																						<cDeltaString>
+																							<Element>
+																								<Value>Sons\20 Hit 08.wav</Value>
+																							</Element>
+																						</cDeltaString>
+																					</Attribute>
+																				</Value>
+																			</Element>
+																		</kLoud-cSampleID>
+																	</Attribute>
+																</Value>
+															</Element>
+														</kLoud-cSampleWithLikelihood>
+														<kLoud-cSampleWithLikelihood>
+															<Element>
+																<Value>
+																	<Attribute name="Likelihood">
+																		<sFloat32>
+																			<Element>
+																				<Value>0.5</Value>
+																			</Element>
+																		</sFloat32>
+																	</Attribute>
+																	<Attribute name="Sample">
+																		<kLoud-cSampleID>
+																			<Element>
+																				<Value>
+																					<Attribute name="Filename">
+																						<cDeltaString>
+																							<Element>
+																								<Value>Sons\20 Hit 09.wav</Value>
+																							</Element>
+																						</cDeltaString>
+																					</Attribute>
+																				</Value>
+																			</Element>
+																		</kLoud-cSampleID>
+																	</Attribute>
+																</Value>
+															</Element>
+														</kLoud-cSampleWithLikelihood>
+														<kLoud-cSampleWithLikelihood>
+															<Element>
+																<Value>
+																	<Attribute name="Likelihood">
+																		<sFloat32>
+																			<Element>
+																				<Value>0.5</Value>
+																			</Element>
+																		</sFloat32>
+																	</Attribute>
+																	<Attribute name="Sample">
+																		<kLoud-cSampleID>
+																			<Element>
+																				<Value>
+																					<Attribute name="Filename">
+																						<cDeltaString>
+																							<Element>
+																								<Value>Sons\20 Hit 10.wav</Value>
+																							</Element>
+																						</cDeltaString>
+																					</Attribute>
+																				</Value>
+																			</Element>
+																		</kLoud-cSampleID>
+																	</Attribute>
+																</Value>
+															</Element>
+														</kLoud-cSampleWithLikelihood>
+														<kLoud-cSampleWithLikelihood>
+															<Element>
+																<Value>
+																	<Attribute name="Likelihood">
+																		<sFloat32>
+																			<Element>
+																				<Value>0.5</Value>
+																			</Element>
+																		</sFloat32>
+																	</Attribute>
+																	<Attribute name="Sample">
+																		<kLoud-cSampleID>
+																			<Element>
+																				<Value>
+																					<Attribute name="Filename">
+																						<cDeltaString>
+																							<Element>
+																								<Value>Sons\20 Hit 11.wav</Value>
+																							</Element>
+																						</cDeltaString>
+																					</Attribute>
+																				</Value>
+																			</Element>
+																		</kLoud-cSampleID>
+																	</Attribute>
+																</Value>
+															</Element>
+														</kLoud-cSampleWithLikelihood>
+														<kLoud-cSampleWithLikelihood>
+															<Element>
+																<Value>
+																	<Attribute name="Likelihood">
+																		<sFloat32>
+																			<Element>
+																				<Value>0.5</Value>
+																			</Element>
+																		</sFloat32>
+																	</Attribute>
+																	<Attribute name="Sample">
+																		<kLoud-cSampleID>
+																			<Element>
+																				<Value>
+																					<Attribute name="Filename">
+																						<cDeltaString>
+																							<Element>
+																								<Value>Sons\20 Hit 12.wav</Value>
+																							</Element>
+																						</cDeltaString>
+																					</Attribute>
+																				</Value>
+																			</Element>
+																		</kLoud-cSampleID>
+																	</Attribute>
+																</Value>
+															</Element>
+														</kLoud-cSampleWithLikelihood>
+														<kLoud-cSampleWithLikelihood>
+															<Element>
+																<Value>
+																	<Attribute name="Likelihood">
+																		<sFloat32>
+																			<Element>
+																				<Value>0.5</Value>
+																			</Element>
+																		</sFloat32>
+																	</Attribute>
+																	<Attribute name="Sample">
+																		<kLoud-cSampleID>
+																			<Element>
+																				<Value>
+																					<Attribute name="Filename">
+																						<cDeltaString>
+																							<Element>
+																								<Value>Sons\20 Hit 13.wav</Value>
+																							</Element>
+																						</cDeltaString>
+																					</Attribute>
+																				</Value>
+																			</Element>
+																		</kLoud-cSampleID>
+																	</Attribute>
+																</Value>
+															</Element>
+														</kLoud-cSampleWithLikelihood>
+														<kLoud-cSampleWithLikelihood>
+															<Element>
+																<Value>
+																	<Attribute name="Likelihood">
+																		<sFloat32>
+																			<Element>
+																				<Value>0.5</Value>
+																			</Element>
+																		</sFloat32>
+																	</Attribute>
+																	<Attribute name="Sample">
+																		<kLoud-cSampleID>
+																			<Element>
+																				<Value>
+																					<Attribute name="Filename">
+																						<cDeltaString>
+																							<Element>
+																								<Value>Sons\20 Hit 14.wav</Value>
+																							</Element>
+																						</cDeltaString>
+																					</Attribute>
+																				</Value>
+																			</Element>
+																		</kLoud-cSampleID>
+																	</Attribute>
+																</Value>
+															</Element>
+														</kLoud-cSampleWithLikelihood>
+														<kLoud-cSampleWithLikelihood>
+															<Element>
+																<Value>
+																	<Attribute name="Likelihood">
+																		<sFloat32>
+																			<Element>
+																				<Value>0.5</Value>
+																			</Element>
+																		</sFloat32>
+																	</Attribute>
+																	<Attribute name="Sample">
+																		<kLoud-cSampleID>
+																			<Element>
+																				<Value>
+																					<Attribute name="Filename">
+																						<cDeltaString>
+																							<Element>
+																								<Value>Sons\20 Hit 15.wav</Value>
+																							</Element>
+																						</cDeltaString>
+																					</Attribute>
+																				</Value>
+																			</Element>
+																		</kLoud-cSampleID>
+																	</Attribute>
+																</Value>
+															</Element>
+														</kLoud-cSampleWithLikelihood>
+														<kLoud-cSampleWithLikelihood>
+															<Element>
+																<Value>
+																	<Attribute name="Likelihood">
+																		<sFloat32>
+																			<Element>
+																				<Value>0.5</Value>
+																			</Element>
+																		</sFloat32>
+																	</Attribute>
+																	<Attribute name="Sample">
+																		<kLoud-cSampleID>
+																			<Element>
+																				<Value>
+																					<Attribute name="Filename">
+																						<cDeltaString>
+																							<Element>
+																								<Value>Sons\20 Hit 16.wav</Value>
+																							</Element>
+																						</cDeltaString>
+																					</Attribute>
+																				</Value>
+																			</Element>
+																		</kLoud-cSampleID>
+																	</Attribute>
+																</Value>
+															</Element>
+														</kLoud-cSampleWithLikelihood>
+														<kLoud-cSampleWithLikelihood>
+															<Element>
+																<Value>
+																	<Attribute name="Likelihood">
+																		<sFloat32>
+																			<Element>
+																				<Value>0.5</Value>
+																			</Element>
+																		</sFloat32>
+																	</Attribute>
+																	<Attribute name="Sample">
+																		<kLoud-cSampleID>
+																			<Element>
+																				<Value>
+																					<Attribute name="Filename">
+																						<cDeltaString>
+																							<Element>
+																								<Value>Sons\20 Hit 17.wav</Value>
+																							</Element>
+																						</cDeltaString>
+																					</Attribute>
+																				</Value>
+																			</Element>
+																		</kLoud-cSampleID>
+																	</Attribute>
+																</Value>
+															</Element>
+														</kLoud-cSampleWithLikelihood>
+														<kLoud-cSampleWithLikelihood>
+															<Element>
+																<Value>
+																	<Attribute name="Likelihood">
+																		<sFloat32>
+																			<Element>
+																				<Value>0.5</Value>
+																			</Element>
+																		</sFloat32>
+																	</Attribute>
+																	<Attribute name="Sample">
+																		<kLoud-cSampleID>
+																			<Element>
+																				<Value>
+																					<Attribute name="Filename">
+																						<cDeltaString>
+																							<Element>
+																								<Value>Sons\20 Hit 18.wav</Value>
+																							</Element>
+																						</cDeltaString>
+																					</Attribute>
+																				</Value>
+																			</Element>
+																		</kLoud-cSampleID>
+																	</Attribute>
+																</Value>
+															</Element>
+														</kLoud-cSampleWithLikelihood>
+														<kLoud-cSampleWithLikelihood>
+															<Element>
+																<Value>
+																	<Attribute name="Likelihood">
+																		<sFloat32>
+																			<Element>
+																				<Value>0.5</Value>
+																			</Element>
+																		</sFloat32>
+																	</Attribute>
+																	<Attribute name="Sample">
+																		<kLoud-cSampleID>
+																			<Element>
+																				<Value>
+																					<Attribute name="Filename">
+																						<cDeltaString>
+																							<Element>
+																								<Value>Sons\20 Hit 19.wav</Value>
+																							</Element>
+																						</cDeltaString>
+																					</Attribute>
+																				</Value>
+																			</Element>
+																		</kLoud-cSampleID>
+																	</Attribute>
+																</Value>
+															</Element>
+														</kLoud-cSampleWithLikelihood>
+														<kLoud-cSampleWithLikelihood>
+															<Element>
+																<Value>
+																	<Attribute name="Likelihood">
+																		<sFloat32>
+																			<Element>
+																				<Value>0.5</Value>
+																			</Element>
+																		</sFloat32>
+																	</Attribute>
+																	<Attribute name="Sample">
+																		<kLoud-cSampleID>
+																			<Element>
+																				<Value>
+																					<Attribute name="Filename">
+																						<cDeltaString>
+																							<Element>
+																								<Value>Sons\20 Hit 20.wav</Value>
+																							</Element>
+																						</cDeltaString>
+																					</Attribute>
+																				</Value>
+																			</Element>
+																		</kLoud-cSampleID>
+																	</Attribute>
+																</Value>
+															</Element>
+														</kLoud-cSampleWithLikelihood>
+														<kLoud-cSampleWithLikelihood>
+															<Element>
+																<Value>
+																	<Attribute name="Likelihood">
+																		<sFloat32>
+																			<Element>
+																				<Value>0.5</Value>
+																			</Element>
+																		</sFloat32>
+																	</Attribute>
+																	<Attribute name="Sample">
+																		<kLoud-cSampleID>
+																			<Element>
+																				<Value>
+																					<Attribute name="Filename">
+																						<cDeltaString>
+																							<Element>
+																								<Value>Sons\20 Hit 21.wav</Value>
+																							</Element>
+																						</cDeltaString>
+																					</Attribute>
+																				</Value>
+																			</Element>
+																		</kLoud-cSampleID>
+																	</Attribute>
+																</Value>
+															</Element>
+														</kLoud-cSampleWithLikelihood>
+														<kLoud-cSampleWithLikelihood>
+															<Element>
+																<Value>
+																	<Attribute name="Likelihood">
+																		<sFloat32>
+																			<Element>
+																				<Value>0.5</Value>
+																			</Element>
+																		</sFloat32>
+																	</Attribute>
+																	<Attribute name="Sample">
+																		<kLoud-cSampleID>
+																			<Element>
+																				<Value>
+																					<Attribute name="Filename">
+																						<cDeltaString>
+																							<Element>
+																								<Value>Sons\20 Hit 22.wav</Value>
 																							</Element>
 																						</cDeltaString>
 																					</Attribute>
@@ -521,6 +1025,105 @@
 									</Value>
 								</Element>
 							</kLoud-cRandomSampleSound>
+							<kLoud-cSingleSampleSound>
+								<Element>
+									<Value>
+										<Attribute name="Name">
+											<cDeltaString>
+												<Element>
+													<Value>Flange</Value>
+												</Element>
+											</cDeltaString>
+										</Attribute>
+										<Attribute name="IsLooped">
+											<bool>
+												<Element>
+													<Value>1</Value>
+												</Element>
+											</bool>
+										</Attribute>
+										<Attribute name="Priority">
+											<sUInt32>
+												<Element>
+													<Value>50</Value>
+												</Element>
+											</sUInt32>
+										</Attribute>
+										<Attribute name="BaseVolume">
+											<sFloat32>
+												<Element>
+													<Value>1</Value>
+												</Element>
+											</sFloat32>
+										</Attribute>
+										<Attribute name="VolumeVariation">
+											<sFloat32>
+												<Element>
+													<Value>0</Value>
+												</Element>
+											</sFloat32>
+										</Attribute>
+										<Attribute name="BasePitchShift">
+											<sFloat32>
+												<Element>
+													<Value>1</Value>
+												</Element>
+											</sFloat32>
+										</Attribute>
+										<Attribute name="PitchShiftVariation">
+											<sFloat32>
+												<Element>
+													<Value>0.05</Value>
+												</Element>
+											</sFloat32>
+										</Attribute>
+										<Attribute name="AttenuationStartDist">
+											<sFloat32>
+												<Element>
+													<Value>50</Value>
+												</Element>
+											</sFloat32>
+										</Attribute>
+										<Attribute name="NoFutherAttenuationDist">
+											<sFloat32>
+												<Element>
+													<Value>300</Value>
+												</Element>
+											</sFloat32>
+										</Attribute>
+										<Attribute name="InstanceGroup">
+											<kLoud-cInstanceGroup>
+												<Element>
+													<Value>
+														<Attribute name="Name">
+															<cDeltaString>
+																<Element>
+																	<Value />
+																</Element>
+															</cDeltaString>
+														</Attribute>
+													</Value>
+												</Element>
+											</kLoud-cInstanceGroup>
+										</Attribute>
+										<Attribute name="Sample">
+											<kLoud-cSampleID>
+												<Element>
+													<Value>
+														<Attribute name="Filename">
+															<cDeltaString>
+																<Element>
+																	<Value>Sons\flangesqueal1.wav</Value>
+																</Element>
+															</cDeltaString>
+														</Attribute>
+													</Value>
+												</Element>
+											</kLoud-cSampleID>
+										</Attribute>
+									</Value>
+								</Element>
+							</kLoud-cSingleSampleSound>
 						</Value>
 					</Element>
 				</__Indexed__kLoud-cSound>
@@ -528,14 +1131,249 @@
 			<Attribute name="Curve">
 				<__Indexed__kLoud-cCurve>
 					<Element>
-						<Value />
+						<Value>
+							<kLoud-cCurve>
+								<Element>
+									<Value>
+										<Attribute name="Name">
+											<cDeltaString>
+												<Element>
+													<Value>FlangeSpeed</Value>
+												</Element>
+											</cDeltaString>
+										</Attribute>
+										<Attribute name="CurvePoint">
+											<__Indexed__kLoud-cRVector2>
+												<Element>
+													<Value>
+														<kLoud-cRVector2>
+															<Element>
+																<Value>
+																	<Attribute name="X">
+																		<sFloat32>
+																			<Element>
+																				<Value>16</Value>
+																			</Element>
+																		</sFloat32>
+																	</Attribute>
+																	<Attribute name="Y">
+																		<sFloat32>
+																			<Element>
+																				<Value>0</Value>
+																			</Element>
+																		</sFloat32>
+																	</Attribute>
+																</Value>
+															</Element>
+														</kLoud-cRVector2>
+														<kLoud-cRVector2>
+															<Element>
+																<Value>
+																	<Attribute name="X">
+																		<sFloat32>
+																			<Element>
+																				<Value>17</Value>
+																			</Element>
+																		</sFloat32>
+																	</Attribute>
+																	<Attribute name="Y">
+																		<sFloat32>
+																			<Element>
+																				<Value>4</Value>
+																			</Element>
+																		</sFloat32>
+																	</Attribute>
+																</Value>
+															</Element>
+														</kLoud-cRVector2>
+														<kLoud-cRVector2>
+															<Element>
+																<Value>
+																	<Attribute name="X">
+																		<sFloat32>
+																			<Element>
+																				<Value>40</Value>
+																			</Element>
+																		</sFloat32>
+																	</Attribute>
+																	<Attribute name="Y">
+																		<sFloat32>
+																			<Element>
+																				<Value>1</Value>
+																			</Element>
+																		</sFloat32>
+																	</Attribute>
+																</Value>
+															</Element>
+														</kLoud-cRVector2>
+													</Value>
+												</Element>
+											</__Indexed__kLoud-cRVector2>
+										</Attribute>
+									</Value>
+								</Element>
+							</kLoud-cCurve>
+							<kLoud-cCurve>
+								<Element>
+									<Value>
+										<Attribute name="Name">
+											<cDeltaString>
+												<Element>
+													<Value>FlangeCurve</Value>
+												</Element>
+											</cDeltaString>
+										</Attribute>
+										<Attribute name="CurvePoint">
+											<__Indexed__kLoud-cRVector2>
+												<Element>
+													<Value>
+														<kLoud-cRVector2>
+															<Element>
+																<Value>
+																	<Attribute name="X">
+																		<sFloat32>
+																			<Element>
+																				<Value>1</Value>
+																			</Element>
+																		</sFloat32>
+																	</Attribute>
+																	<Attribute name="Y">
+																		<sFloat32>
+																			<Element>
+																				<Value>0</Value>
+																			</Element>
+																		</sFloat32>
+																	</Attribute>
+																</Value>
+															</Element>
+														</kLoud-cRVector2>
+														<kLoud-cRVector2>
+															<Element>
+																<Value>
+																	<Attribute name="X">
+																		<sFloat32>
+																			<Element>
+																				<Value>6</Value>
+																			</Element>
+																		</sFloat32>
+																	</Attribute>
+																	<Attribute name="Y">
+																		<sFloat32>
+																			<Element>
+																				<Value>1</Value>
+																			</Element>
+																		</sFloat32>
+																	</Attribute>
+																</Value>
+															</Element>
+														</kLoud-cRVector2>
+													</Value>
+												</Element>
+											</__Indexed__kLoud-cRVector2>
+										</Attribute>
+									</Value>
+								</Element>
+							</kLoud-cCurve>
+						</Value>
 					</Element>
 				</__Indexed__kLoud-cCurve>
 			</Attribute>
 			<Attribute name="ModifierChain">
 				<__Indexed__kLoud-cModifierChain>
 					<Element>
-						<Value />
+						<Value>
+							<kLoud-cModifierChain>
+								<Element>
+									<Value>
+										<Attribute name="Name">
+											<cDeltaString>
+												<Element>
+													<Value>Flange</Value>
+												</Element>
+											</cDeltaString>
+										</Attribute>
+										<Attribute name="Modifier">
+											<__Indexed__kLoud-cModifier>
+												<Element>
+													<Value>
+														<kLoud-cVolumeCurveModifier>
+															<Element>
+																<Value>
+																	<Attribute name="ControllerIsGlobal">
+																		<bool>
+																			<Element>
+																				<Value>0</Value>
+																			</Element>
+																		</bool>
+																	</Attribute>
+																	<Attribute name="ControllerName">
+																		<cDeltaString>
+																			<Element>
+																				<Value>AbsoluteSpeed</Value>
+																			</Element>
+																		</cDeltaString>
+																	</Attribute>
+																	<Attribute name="Curve">
+																		<kLoud-cCurve>
+																			<Element>
+																				<Value>
+																					<Attribute name="Name">
+																						<cDeltaString>
+																							<Element>
+																								<Value>FlangeSpeed</Value>
+																							</Element>
+																						</cDeltaString>
+																					</Attribute>
+																				</Value>
+																			</Element>
+																		</kLoud-cCurve>
+																	</Attribute>
+																</Value>
+															</Element>
+														</kLoud-cVolumeCurveModifier>
+														<kLoud-cVolumeCurveModifier>
+															<Element>
+																<Value>
+																	<Attribute name="ControllerIsGlobal">
+																		<bool>
+																			<Element>
+																				<Value>0</Value>
+																			</Element>
+																		</bool>
+																	</Attribute>
+																	<Attribute name="ControllerName">
+																		<cDeltaString>
+																			<Element>
+																				<Value>Curvature</Value>
+																			</Element>
+																		</cDeltaString>
+																	</Attribute>
+																	<Attribute name="Curve">
+																		<kLoud-cCurve>
+																			<Element>
+																				<Value>
+																					<Attribute name="Name">
+																						<cDeltaString>
+																							<Element>
+																								<Value>FlangeCurve</Value>
+																							</Element>
+																						</cDeltaString>
+																					</Attribute>
+																				</Value>
+																			</Element>
+																		</kLoud-cCurve>
+																	</Attribute>
+																</Value>
+															</Element>
+														</kLoud-cVolumeCurveModifier>
+													</Value>
+												</Element>
+											</__Indexed__kLoud-cModifier>
+										</Attribute>
+									</Value>
+								</Element>
+							</kLoud-cModifierChain>
+						</Value>
 					</Element>
 				</__Indexed__kLoud-cModifierChain>
 			</Attribute>
@@ -591,7 +1429,7 @@
 										<Attribute name="Name">
 											<cDeltaString>
 												<Element>
-													<Value />
+													<Value>Rumble High</Value>
 												</Element>
 											</cDeltaString>
 										</Attribute>
@@ -691,7 +1529,7 @@
 										<Attribute name="Name">
 											<cDeltaString>
 												<Element>
-													<Value />
+													<Value>Rumble Med</Value>
 												</Element>
 											</cDeltaString>
 										</Attribute>
@@ -791,7 +1629,7 @@
 										<Attribute name="Name">
 											<cDeltaString>
 												<Element>
-													<Value />
+													<Value>Rumble Low</Value>
 												</Element>
 											</cDeltaString>
 										</Attribute>
@@ -868,6 +1706,106 @@
 															<cDeltaString>
 																<Element>
 																	<Value>Rumble</Value>
+																</Element>
+															</cDeltaString>
+														</Attribute>
+													</Value>
+												</Element>
+											</kLoud-cInstanceGroup>
+										</Attribute>
+									</Value>
+								</Element>
+							</kLoud-cControlledLoop>
+							<kLoud-cControlledLoop>
+								<Element>
+									<Value>
+										<Attribute name="PlayState">
+											<ePlayState>
+												<Element>
+													<Value>BOTH</Value>
+												</Element>
+											</ePlayState>
+										</Attribute>
+										<Attribute name="Name">
+											<cDeltaString>
+												<Element>
+													<Value>Flange</Value>
+												</Element>
+											</cDeltaString>
+										</Attribute>
+										<Attribute name="Sound">
+											<kLoud-cSound>
+												<Element>
+													<Value>
+														<Attribute name="Name">
+															<cDeltaString>
+																<Element>
+																	<Value>Flange</Value>
+																</Element>
+															</cDeltaString>
+														</Attribute>
+													</Value>
+												</Element>
+											</kLoud-cSound>
+										</Attribute>
+										<Attribute name="ModifierChain">
+											<kLoud-cModifierChain>
+												<Element>
+													<Value>
+														<Attribute name="Name">
+															<cDeltaString>
+																<Element>
+																	<Value>Flange</Value>
+																</Element>
+															</cDeltaString>
+														</Attribute>
+													</Value>
+												</Element>
+											</kLoud-cModifierChain>
+										</Attribute>
+										<Attribute name="ControllerName">
+											<cDeltaString>
+												<Element>
+													<Value>Curvature</Value>
+												</Element>
+											</cDeltaString>
+										</Attribute>
+										<Attribute name="LoopCondition">
+											<kLoud-cControlledLoop-eLoopCondition>
+												<Element>
+													<Value>ValueInRange</Value>
+												</Element>
+											</kLoud-cControlledLoop-eLoopCondition>
+										</Attribute>
+										<Attribute name="ActiveRangeStartValue">
+											<sFloat32>
+												<Element>
+													<Value>1</Value>
+												</Element>
+											</sFloat32>
+										</Attribute>
+										<Attribute name="ActiveRangeEndValue">
+											<sFloat32>
+												<Element>
+													<Value>1</Value>
+												</Element>
+											</sFloat32>
+										</Attribute>
+										<Attribute name="ValueIsChangingGateTime">
+											<sFloat32>
+												<Element>
+													<Value>0</Value>
+												</Element>
+											</sFloat32>
+										</Attribute>
+										<Attribute name="InstanceGroup">
+											<kLoud-cInstanceGroup>
+												<Element>
+													<Value>
+														<Attribute name="Name">
+															<cDeltaString>
+																<Element>
+																	<Value />
 																</Element>
 															</cDeltaString>
 														</Attribute>
