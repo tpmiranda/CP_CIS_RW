@@ -5,62 +5,14 @@
 			<Attribute name="WheelRadius">
 				<sFloat32>
 					<Element>
-						<ToolData>
-							<Tool name="tool_cWinToolFloatDatum">
-								<cWinToolFloatDatum>
-									<Element>
-										<Value>
-											<Attribute name="mUnits">
-												<cFxString8>
-													<Element>
-														<Value></Value>
-													</Element>
-												</cFxString8>
-											</Attribute>
-											<Attribute name="mTypedIn">
-												<cFxString8>
-													<Element>
-														<Value>0.44650000333786011</Value>
-													</Element>
-												</cFxString8>
-											</Attribute>
-										</Value>
-									</Element>
-								</cWinToolFloatDatum>
-							</Tool>
-						</ToolData>
-						<Value>0.446500</Value>
+						<Value>0.4465</Value>
 					</Element>
 				</sFloat32>
 			</Attribute>
 			<Attribute name="WheelGauge">
 				<sFloat32>
 					<Element>
-						<ToolData>
-							<Tool name="tool_cWinToolFloatDatum">
-								<cWinToolFloatDatum>
-									<Element>
-										<Value>
-											<Attribute name="mUnits">
-												<cFxString8>
-													<Element>
-														<Value></Value>
-													</Element>
-												</cFxString8>
-											</Attribute>
-											<Attribute name="mTypedIn">
-												<cFxString8>
-													<Element>
-														<Value>1.435</Value>
-													</Element>
-												</cFxString8>
-											</Attribute>
-										</Value>
-									</Element>
-								</cWinToolFloatDatum>
-							</Tool>
-						</ToolData>
-						<Value>1.435000</Value>
+						<Value>1.668</Value>
 					</Element>
 				</sFloat32>
 			</Attribute>
@@ -74,7 +26,7 @@
 			<Attribute name="Animation">
 				<cDeltaString>
 					<Element>
-						<Value></Value>
+						<Value />
 					</Element>
 				</cDeltaString>
 			</Attribute>
@@ -84,6 +36,20 @@
 						<Value>eTrue</Value>
 					</Element>
 				</eBoolean>
+			</Attribute>
+			<Attribute name="SuspensionStiffness">
+				<sFloat32>
+					<Element>
+						<Value>8E+09</Value>
+					</Element>
+				</sFloat32>
+			</Attribute>
+			<Attribute name="SuspensionDamping">
+				<sFloat32>
+					<Element>
+						<Value>6E+07</Value>
+					</Element>
+				</sFloat32>
 			</Attribute>
 			<Attribute name="Axle">
 				<__Indexed__cBogeyBlueprint-tag_sAxle>
@@ -95,62 +61,14 @@
 										<Attribute name="Radius">
 											<sFloat32>
 												<Element>
-													<ToolData>
-														<Tool name="tool_cWinToolFloatDatum">
-															<cWinToolFloatDatum>
-																<Element>
-																	<Value>
-																		<Attribute name="mUnits">
-																			<cFxString8>
-																				<Element>
-																					<Value></Value>
-																				</Element>
-																			</cFxString8>
-																		</Attribute>
-																		<Attribute name="mTypedIn">
-																			<cFxString8>
-																				<Element>
-																					<Value>0.44650000333786011</Value>
-																				</Element>
-																			</cFxString8>
-																		</Attribute>
-																	</Value>
-																</Element>
-															</cWinToolFloatDatum>
-														</Tool>
-													</ToolData>
-													<Value>0.446500</Value>
+													<Value>0.4465</Value>
 												</Element>
 											</sFloat32>
 										</Attribute>
 										<Attribute name="HorizontalOffset">
 											<sFloat32>
 												<Element>
-													<ToolData>
-														<Tool name="tool_cWinToolFloatDatum">
-															<cWinToolFloatDatum>
-																<Element>
-																	<Value>
-																		<Attribute name="mUnits">
-																			<cFxString8>
-																				<Element>
-																					<Value></Value>
-																				</Element>
-																			</cFxString8>
-																		</Attribute>
-																		<Attribute name="mTypedIn">
-																			<cFxString8>
-																				<Element>
-																					<Value>1.30</Value>
-																				</Element>
-																			</cFxString8>
-																		</Attribute>
-																	</Value>
-																</Element>
-															</cWinToolFloatDatum>
-														</Tool>
-													</ToolData>
-													<Value>1.300000</Value>
+													<Value>1.3</Value>
 												</Element>
 											</sFloat32>
 										</Attribute>
@@ -164,7 +82,7 @@
 										<Attribute name="AnimationId">
 											<cDeltaString>
 												<Element>
-													<Value></Value>
+													<Value />
 												</Element>
 											</cDeltaString>
 										</Attribute>
@@ -177,62 +95,14 @@
 										<Attribute name="Radius">
 											<sFloat32>
 												<Element>
-													<ToolData>
-														<Tool name="tool_cWinToolFloatDatum">
-															<cWinToolFloatDatum>
-																<Element>
-																	<Value>
-																		<Attribute name="mUnits">
-																			<cFxString8>
-																				<Element>
-																					<Value></Value>
-																				</Element>
-																			</cFxString8>
-																		</Attribute>
-																		<Attribute name="mTypedIn">
-																			<cFxString8>
-																				<Element>
-																					<Value>0.44650000333786011</Value>
-																				</Element>
-																			</cFxString8>
-																		</Attribute>
-																	</Value>
-																</Element>
-															</cWinToolFloatDatum>
-														</Tool>
-													</ToolData>
-													<Value>0.446500</Value>
+													<Value>0.4465</Value>
 												</Element>
 											</sFloat32>
 										</Attribute>
 										<Attribute name="HorizontalOffset">
 											<sFloat32>
 												<Element>
-													<ToolData>
-														<Tool name="tool_cWinToolFloatDatum">
-															<cWinToolFloatDatum>
-																<Element>
-																	<Value>
-																		<Attribute name="mUnits">
-																			<cFxString8>
-																				<Element>
-																					<Value></Value>
-																				</Element>
-																			</cFxString8>
-																		</Attribute>
-																		<Attribute name="mTypedIn">
-																			<cFxString8>
-																				<Element>
-																					<Value>-1.30</Value>
-																				</Element>
-																			</cFxString8>
-																		</Attribute>
-																	</Value>
-																</Element>
-															</cWinToolFloatDatum>
-														</Tool>
-													</ToolData>
-													<Value>-1.300000</Value>
+													<Value>-1.3</Value>
 												</Element>
 											</sFloat32>
 										</Attribute>
@@ -246,7 +116,7 @@
 										<Attribute name="AnimationId">
 											<cDeltaString>
 												<Element>
-													<Value></Value>
+													<Value />
 												</Element>
 											</cDeltaString>
 										</Attribute>
@@ -260,76 +130,7 @@
 			<Attribute name="PivotOffset">
 				<__Indexed__cBogeyBlueprint-tag_sPivotOffset>
 					<Element>
-						<Value>
-							<cBogeyBlueprint-tag_sPivotOffset>
-								<Element>
-									<Value>
-										<Attribute name="HorizontalOffset">
-											<sFloat32>
-												<Element>
-													<ToolData>
-														<Tool name="tool_cWinToolFloatDatum">
-															<cWinToolFloatDatum>
-																<Element>
-																	<Value>
-																		<Attribute name="mUnits">
-																			<cFxString8>
-																				<Element>
-																					<Value></Value>
-																				</Element>
-																			</cFxString8>
-																		</Attribute>
-																		<Attribute name="mTypedIn">
-																			<cFxString8>
-																				<Element>
-																					<Value>0.000000</Value>
-																				</Element>
-																			</cFxString8>
-																		</Attribute>
-																	</Value>
-																</Element>
-															</cWinToolFloatDatum>
-														</Tool>
-													</ToolData>
-													<Value>0.000000</Value>
-												</Element>
-											</sFloat32>
-										</Attribute>
-										<Attribute name="VerticalOffset">
-											<sFloat32>
-												<Element>
-													<ToolData>
-														<Tool name="tool_cWinToolFloatDatum">
-															<cWinToolFloatDatum>
-																<Element>
-																	<Value>
-																		<Attribute name="mUnits">
-																			<cFxString8>
-																				<Element>
-																					<Value></Value>
-																				</Element>
-																			</cFxString8>
-																		</Attribute>
-																		<Attribute name="mTypedIn">
-																			<cFxString8>
-																				<Element>
-																					<Value>0.000000</Value>
-																				</Element>
-																			</cFxString8>
-																		</Attribute>
-																	</Value>
-																</Element>
-															</cWinToolFloatDatum>
-														</Tool>
-													</ToolData>
-													<Value>0.000000</Value>
-												</Element>
-											</sFloat32>
-										</Attribute>
-									</Value>
-								</Element>
-							</cBogeyBlueprint-tag_sPivotOffset>
-						</Value>
+						<Value />
 					</Element>
 				</__Indexed__cBogeyBlueprint-tag_sPivotOffset>
 			</Attribute>
